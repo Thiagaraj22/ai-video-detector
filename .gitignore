@@ -1,0 +1,14 @@
+dataset/real/
+dataset/fake/
+dataset/frames/
+test_videos/
+model.pth
+model_cnn_lstm.pth
+app_cnn_lstm.py
+train_model.py
+evaluate_model.py
+confusion_matrix.png
+roc_curve.png
+__pycache__/
+*.pyc
+*.zip
